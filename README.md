@@ -13,5 +13,5 @@ Welcome to my GitHub profile
 
 ### 🔗 Connect with me
 
-* LinkedIn: https://linkedin.com/in/shubham-shrivastawa
+* LinkedIn: www.linkedin.com/in/shubhamshrivastawa
 * Instagram: https://instagram.com/being_shubh_19
