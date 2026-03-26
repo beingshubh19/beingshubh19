@@ -3,7 +3,7 @@ Welcome to my GitHub profile
 # Hi, I'm Shubham 👋
 
 🎓 **Branch:** Computer Science Engineering
-📅 **Year:** 2nd Year
+📅 **Year:** 1st Year
 
 💡 I am currently learning programming and exploring the field of Artificial Intelligence and Machine Learning. My goal is to build real-world projects and improve my problem-solving skills.
 
