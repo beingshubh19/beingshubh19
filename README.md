@@ -1,6 +1,6 @@
-# being_shubh_19
-Welcome to my GitHub profile
 # Hi, I'm Shubham 👋
+Welcome to my GitHub profile
+
 
 🎓 **Branch:** Computer Science Engineering
 📅 **Year:** 1st Year
